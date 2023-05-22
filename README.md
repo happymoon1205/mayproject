@@ -5,8 +5,4 @@
 ### 6명의 팀원들이 각자의 분업을 통해서 닮은 연예인을 찾아주는 웹사이트를 배포해보았습니다.
 
 
-> - 스택
-> python
-> django
-> MySQL
-> EC2
+> - 스택 : python, django, MySQL, EC2
